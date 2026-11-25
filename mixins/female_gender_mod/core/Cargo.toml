@@ -1,0 +1,9 @@
+[package]
+name = "fgm_core"
+version = "5.1.0"
+edition = "2024"
+description = "Female Gender Mod for Horizon: settings, Fabric sync codec, physics and UI state."
+license = "LGPL-3.0-only"
+publish = false
+
+[dependencies]
